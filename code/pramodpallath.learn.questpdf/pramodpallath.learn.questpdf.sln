@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pramodpallath.learn.questpdf", "pramodpallath.learn.questpdf\pramodpallath.learn.questpdf.csproj", "{85EC88EB-DC34-4C24-811E-F6E0AFA9F5C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pramodpallath.learn.questpdf.ui.winforms", "pramodpallath.learn.questpdf.ui.winforms\pramodpallath.learn.questpdf.ui.winforms.csproj", "{397F1D89-331E-4B84-AB56-E37685B0DC05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pramodpallath.learn.questpdf.samples", "pramodpallath.learn.questpdf.samples\pramodpallath.learn.questpdf.samples.csproj", "{B8ADA5A0-A557-4557-9AF7-0ADFCF534AE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{85EC88EB-DC34-4C24-811E-F6E0AFA9F5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85EC88EB-DC34-4C24-811E-F6E0AFA9F5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85EC88EB-DC34-4C24-811E-F6E0AFA9F5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397F1D89-331E-4B84-AB56-E37685B0DC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397F1D89-331E-4B84-AB56-E37685B0DC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397F1D89-331E-4B84-AB56-E37685B0DC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397F1D89-331E-4B84-AB56-E37685B0DC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8ADA5A0-A557-4557-9AF7-0ADFCF534AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8ADA5A0-A557-4557-9AF7-0ADFCF534AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8ADA5A0-A557-4557-9AF7-0ADFCF534AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8ADA5A0-A557-4557-9AF7-0ADFCF534AE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
