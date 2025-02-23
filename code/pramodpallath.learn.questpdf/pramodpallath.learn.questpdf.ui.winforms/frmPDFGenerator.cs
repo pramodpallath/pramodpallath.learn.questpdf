@@ -44,6 +44,7 @@ namespace pramodpallath.learn.questpdf.ui.winforms
             pdfGenerators.Add(new HelloWorldPDFGenerator());
             pdfGenerators.Add(new HeaderFooterPDFGenerator());
             pdfGenerators.Add(new MultipleOrientationPDFGenerator());
+            pdfGenerators.Add(new LogoInHeaderPDFGenerator());
         }
     }
 }

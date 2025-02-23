@@ -17,4 +17,10 @@
     <ProjectReference Include="..\pramodpallath.learn.questpdf\pramodpallath.learn.questpdf.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="pramod-pallath-logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
